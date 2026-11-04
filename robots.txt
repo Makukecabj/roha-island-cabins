@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://roha-island-cabins.vercel.app/sitemap.xml
